@@ -3,6 +3,9 @@
 ## Week 1 Code & Discuss
 
 ### Code 1
+[Lecture Slide](https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf)
+
+https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf
 
 + Run code in the Slide Page 6 (Assignment is Tricky Part 1)
 + Run code in the Slide Page 7 (Assignment is Tricky Part 2)
