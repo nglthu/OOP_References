@@ -1,5 +1,9 @@
 # Code Platform for OOP
 
+# Learn Java
+
+[Java Toutorial](https://www.w3schools.com/java/default.asp)
+
 
 # Simple Exercies
 
