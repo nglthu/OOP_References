@@ -4,7 +4,7 @@
 
 [Java Toutorial](https://www.w3schools.com/java/default.asp)
 
-
+https://www.w3schools.com/java/default.asp
 # Simple Exercies
 
 1. Main
