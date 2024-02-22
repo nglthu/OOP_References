@@ -41,14 +41,25 @@ https://www.w3schools.com/java/default.asp
 
 ### Code 3
 + Organise all codes today under your repo on Github
+  
+  Review previous lesson [Setting up a Java project for GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-java-project-for-codespaces)
+  
 + Commit all codes under your Github with specific message each commit.
-E.g: message for the first commit is "Assignment is Tricky Part 1)
-message for the last commit is "Java Break and Continue Practice"
-+ Follow @nglthu or Github.com/nglthu
+  
+For example: 
+The first message for the first commit is "Assignment is Tricky Part 1)
+
+Last message for the last commit is "Java Break and Continue Practice"
+
++ Follow [@nglthu](https://github.com/nglthu) or Github.com/nglthu
+
 + Lecturer will have a look on your work. 
 
 ### Discuss 3
-+ Any difficulties can send through message to @nglthu//OOP_References/discussions
-https://github.com/nglthu/OOP_References/discussions
++ Any difficulties can send through message to @nglthu/OOP_References/discussions
+
+[Discussion](https://github.com/nglthu/OOP_References/discussions)
+
+ https://github.com/nglthu/OOP_References/discussions
 
 
