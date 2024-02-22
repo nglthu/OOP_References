@@ -1,4 +1,4 @@
-# Practice Task
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week1)
 
 ## Week 1 Code & Discuss
 
@@ -12,18 +12,27 @@
 + Value Return ?
 + What are the difference between each code ?
 
-### Code 2 : Run code on https://www.w3schools.com/java/default.asp
+### Code 2 : Run code on [W3schools](https://www.w3schools.com/java/default.asp)
+https://www.w3schools.com/java/default.asp
+
 + Control
-Java If ... Else  
+  
+[Java If ... Else](https://www.w3schools.com/java/java_conditions.asp)  
 
 + Interaction
-Java While Loop
-Java For Loop
-Java Each Loop
+  
+[Java While Loop](https://www.w3schools.com/java/java_while_loop.asp)
+
+[Java For Loop](https://www.w3schools.com/java/java_for_loop.asp)
+
+[Java Each Loop](https://www.w3schools.com/java/java_foreach_loop.asp)
 
 + Case
-Java Switch
-Java Break and Continue
+  
+[Java Switch](https://www.w3schools.com/java/java_switch.asp)
+
+[Java Break and Continue](https://www.w3schools.com/java/java_break.asp)
+
 ### Discuss 2
 + Any Difficulities ?
 
