@@ -29,7 +29,7 @@
 1. Exercise 17 on Polymorphism, page 216
 2. Build Abastract Class and extended classes for Orchestra example, on Abstract class, page 220
    The UML as follow:
-   <img src="/img/Orchestra.png"/>
+   <img src="https://nglthu.github.io/OOP_References/img/Orchestra.png"/>
 3. Exercise 21 on Interfaces, page 258 (nested class)
 
    All exercises should be organised as class and commit under the main/java/com/mycompany/app with their name such as:
