@@ -27,25 +27,26 @@
 
 ### Code 2 : Exercises on [Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
 1. Exercise 17 on Polymorphism, page 216
-2. Build abastract calss and extended classes, Abstract class,  in UML, page 220
-3. All Exercises on Reusing Classess, from page 165
-4. All Exercises on Polymorphism, from page 193
-5. Exercise 21 on Interfaces, page 258 (nested class)
+2. Build Abastract Class and extended classes for Orchestra example, on Abstract class, page 220
+   The UML as follow:
+   <img src="/img/Orchestra.png"/>
+3. Exercise 21 on Interfaces, page 258 (nested class)
 
    All exercises should be organised as class and commit under the main/java/com/mycompany/app with their name such as:
-   InterfacesExercise1.java
-   InterfacesExercise9.java
+   PolymorphismExercise17.java
+   Orchestra.java
+   InterfacesExercise21.java
    ....
 
 ### Code 3: Run code on [W3school](https://www.w3schools.com/java/default.asp) for learning Java Syntax
 
-+ Methods
++ Java Polymorphism
   
-[Java Methods](https://www.w3schools.com/java/java_methods.asp)  
+[Java Methods](https://www.w3schools.com/java/java_polymorphism.asp)  
 
-+ Class
++ Java Abstraction 
   
-[Java Classes](https://www.w3schools.com/java/java_oop.asp)
+[Java Classes](https://www.w3schools.com/java/java_abstract.asp)
 
 
 
