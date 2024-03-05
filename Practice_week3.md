@@ -5,20 +5,20 @@
 ### Lecture and Book
 
 
-[Lecture Slide 3](https://nglthu.github.io/OOP_References/Slides/Lecture3_LTN.pdf)
+[Lecture Slide 5](https://nglthu.github.io/OOP_References/Slides/Lecture5_LTN.pdf)
 
-[Lecture Slide 4](https://nglthu.github.io/OOP_References/Slides/Lecture4_LTN.pdf)
+[Lecture Slide 6](https://nglthu.github.io/OOP_References/Slides/Lecture6_LTN.pdf)
 
 [Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
 
 ### Code 1: Exercises on the Lecture
 
 1. Create Classes:
-+ Book.java
-+ Time.java
-+ Recursion.java
-+ NNCollection.java
-+ NameNumber.java
++ DisruptLecture.java
++ TestArithmetic.java
++ GlyphTest.java
++ Transmogrify.java
+
 
   In the group project under main/java/com/mycompany/app
   
@@ -26,11 +26,11 @@
 
 
 ### Code 2 : Exercises on [Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
-1. All Exercises (e.g. Exercises 3, 4, 5...) on Access Control, from page 145
-2. All Exercises on Initialization and Cleanup, from page 107
+1. Exercise 17 on Polymorphism, page 216
+2. Build abastract calss and extended classes, Abstract class,  in UML, page 220
 3. All Exercises on Reusing Classess, from page 165
 4. All Exercises on Polymorphism, from page 193
-5. All Exercises on Interfaces, from page 219
+5. Exercise 21 on Interfaces, page 258 (nested class)
 
    All exercises should be organised as class and commit under the main/java/com/mycompany/app with their name such as:
    InterfacesExercise1.java
