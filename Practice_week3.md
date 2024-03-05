@@ -1,4 +1,4 @@
-# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week1) and Midterm Assignment for Assessment
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week3) and Midterm Assignment for Assessment
 
 ## Week 2 Code & Discuss
 
