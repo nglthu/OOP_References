@@ -1,0 +1,48 @@
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week4) of Week 4
+
+## Week 4 UML & Discuss
+
+### Lecture and Book
+
+
+[Lecture Slide 7](https://nglthu.github.io/OOP_References/Slides/UML.pdf)
+
+[Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
+
+### Exercises on the Lecture and Prepare for the final report
+
+
+1. Create a report includes
+1.1 Your group name
+1.2 Your group assignment exercice
+1.3 Chosen UML for your flow of work
+   Some suggested online UML Tools
+   + [Smart Draw](https://app.smartdraw.com/?nsu=1)
+   + [Visual Paradigm](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&diagram=list)
+
+
+3. In the group project create a Wiki for the report
+  
+(at the top of each repo)
+
+3. Print it (Wiki) as a paper report at the end of the course
+
+
+### Discuss
++ Any difficulties can send through message to 
+
+[Discussion](https://github.com/nglthu/OOP_References/discussions)
+
+## Assessment
+
+Your committed exercises on your Github group repo will be assessed as your midterm mark.
+The lecturer will assess your work based on:
+
++The group committed code
+
++The contributions of each member based on Contributors Network and Information on Github
+
+
++ Follow [@nglthu](https://github.com/nglthu) or Github.com/nglthu
+
+ 
