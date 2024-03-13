@@ -14,8 +14,11 @@
 
 1. Create a report includes
 1.1 Your group name
+   
 1.2 Coverpage and report format as recommended by Phenikaa University   
+
 1.3 Your group assignment exercice /task
+
 1.4 Chosen UML for your flow of work
    
    Some suggested online UML Tools, but not limited to
@@ -25,7 +28,7 @@
    + [Visual Paradigm](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&diagram=list)
 
 
-3. In the group project create a Wiki (as listed from 1.1 to 1.4) for the report
+2. In the group project create a Wiki (as listed from 1.1 to 1.4) for the report
   
 (at the top of each repo)
 
