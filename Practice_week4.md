@@ -12,7 +12,8 @@
 ### Exercises on the Lecture and Prepare for the final report
 
 
-1. Create a report includes
+1. Create a report includes:
+   
 1.1 Your group name
    
 1.2 Coverpage and report format as recommended by Phenikaa University   
