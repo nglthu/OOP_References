@@ -33,7 +33,7 @@
   
 (at the top of each repo)
 
-3. Print it (Wiki) as a paper report at the end of the course
+3. Print it (Wiki) as a paper report at the end of the course, [example](https://github.com/nglthu/OOP_References/wiki/Management_for_Hospital)
 
 
 ### Discuss
