@@ -8,6 +8,8 @@
 
 [Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
 
+[JavaFX Reference](https://docs.oracle.com/javafx/2/ui_controls/text-field.htm)
+
 ### Exercises on the Lecture and Prepare for the final report
 
 
