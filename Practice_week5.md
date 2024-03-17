@@ -4,7 +4,7 @@
 ### Lecture and Book
 
 
-[Lecture Slide 8](https://nglthu.github.io/OOP_References/Slides/Lecture8.pdf)
+[Lecture Slide 8](https://nglthu.github.io/OOP_References/Slides/Lecture8_LTN.pdf)
 
 [Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
 
