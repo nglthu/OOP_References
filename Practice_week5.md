@@ -16,6 +16,8 @@
 
 
 #### 1. Create a Java GUI (JavaFX, or AWT or  includes:
+
+<img src="https://nglthu.github.io/OOP_References/img/PatientManagement.png">
    
 ##### 1.1 Text fields
    
