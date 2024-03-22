@@ -6,6 +6,8 @@
 
 [Lecture Slide 8](https://nglthu.github.io/OOP_References/Slides/Lecture8_LTN.pdf)
 
+[JavaFX Layout](https://nglthu.github.io/JavaGuiProject/img/readMeImg)
+
 [Book](https://nglthu.github.io/Books/java/BruceEckel_Thinking_in_Java_4th_Edition.pdf)
 
 [JavaFX Reference](https://docs.oracle.com/javafx/2/ui_controls/text-field.htm)
