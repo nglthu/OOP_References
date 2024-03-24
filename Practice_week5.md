@@ -40,7 +40,8 @@
 
 #### 5. Mock Presentation
 
-Each Group carries out their mock presentation in front of the class
+<span style="color:red">Each Group carries out their <b> mock presentation </b> in front of the class for the last 3 weeks since the week starting 25 March to end. 
+</span>.
 
 Questions and Answers (by both students and lecturer)
 
