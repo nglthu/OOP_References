@@ -1,6 +1,6 @@
-# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week5) of Week 5
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week5) of Week 5 & 6
 
-## Week 5 Java GUI
+## Week 5 & 6 Java GUI
 ### Lecture and Book
 
 
@@ -37,6 +37,14 @@
 #### 3. Update your UML in the Wiki
 
 #### 4. Update all your continous code and work on the group repo and your Wiki. 
+
+#### 5. Mock Presentation
+
+Each Group carries their mock presentation in front of the class
+
+Questions and Answers
+
+Codes and Bugs
 
 
 
