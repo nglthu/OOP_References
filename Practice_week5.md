@@ -40,7 +40,7 @@
 
 #### 5. Mock Presentation
 
-Each Group carries their mock presentation in front of the class
+Each Group carries out their mock presentation in front of the class
 
 Questions and Answers
 
