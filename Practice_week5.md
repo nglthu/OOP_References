@@ -42,9 +42,9 @@
 
 Each Group carries out their mock presentation in front of the class
 
-Questions and Answers
+Questions and Answers (by both students and lecturer)
 
-Codes and Bugs
+Codes and Bugs (by both students and lecturer)
 
 
 
