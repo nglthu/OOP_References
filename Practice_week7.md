@@ -46,32 +46,41 @@
 
 <b>MONDAY 01 APRIL 2024</b>   
 
-🔴 Group 26: Mock Presentation : Pure OOP, Wiki  & Work
+🔴 Group 26 (or 24): Mock Presentation : Pure OOP, Wiki  & Work
 1. Lê Thành Long
 2. Nguyễn Thị Thùy Linh
 
-🔴 Group 08: Mock Presentation : JavaFx, UML & Work 
+🔴 Group 08: Mock Presentation : JavaFx, UML & Work(e.g. Quản lý đơn hàng, or Sản phẩm)
 1. Phạm Văn Hùng
 2. Nguyễn Duy Minh
 
-🔴 Group 21: Mock Presentation : Pure OOP Code Explanation, Wiki & Work
+🔴 Group 21: Mock Presentation : Pure OOP Code Explanation, Wiki & Work 
 1. Nguyễn Anh Tuấn
 2. Tạ Vương Bảo Ngọc
 3. Hoàng Như Quỳnh
+
+🔴 Group 10: Mock Presentation : Pure OOP Code Explanation, Wiki & Work
+1. Lê Thị Kiều Trang
+2. Đinh Thị Diệu Linh
+3. Nguyễn Minh Sang
 
 <b>FRIDAY 05 APRIL 2024</b> 
-🔴 Group 7: Mock Presentation : UML  and chosen functionalities (e.g. Quản lý chức vụ, or Quản lý sắp xếp công việc
-1. Lê Thành Long
-2. Nguyễn Thị Thùy Linh
+🔴 Group 7: Mock Presentation : UML  and chosen functionalities (e.g. Quản lý chức vụ, or Quản lý sắp xếp công việc, etc.)
+1. Triệu Tiến Quỳnh
+2. Vũ Hồng Phúc
+   
+🔴 Group 12: Mock Presentation : JavaFx, UML & Work (e.g. Componenent Quản lý bán hàng) 
+1. Đỗ Thị Ngân
+2. Lương Duy Tân
 
-🔴 Group 08: Mock Presentation : JavaFx, UML & Work 
-1. Phạm Văn Hùng
-2. Nguyễn Duy Minh
+🔴 Group 06: Mock Presentation : JavaFx, UML & Work (e.g. Componenent Quản lý sinh viên) 
+1. Quách Hữu Nam
+2. Nguyễn Tiến Lực
 
-🔴 Group 21: Mock Presentation : Pure OOP Code Explanation, Wiki & Work
-1. Nguyễn Anh Tuấn
-2. Tạ Vương Bảo Ngọc
-3. Hoàng Như Quỳnh
+🔴 Group 09: Mock Presentation : Abstract class or Interfaces for "Thêm, Sửa, Xóa" trong Lưu thay đổi, của Hiển thị danh sách sinh viên, Lọc và tìm kiếm nhân viên, Hiển thị danh sách chức vụ, etc.
+1. Quách Hữu Nam
+2. Nguyễn Tiến Lực
+
 
 
 Questions and Answers (by both students and lecturer)
