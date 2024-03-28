@@ -43,6 +43,23 @@
 <span style="color:red">🔴IMPORTANT❗🔴Each Group carries out their <b> mock presentation </b> in front of the class for the last 3 weeks since the week starting 25 March to end. 
 </span>
 
+🔴 Group 19: Java FX Installation, Scene Builder & Work
+
+1. Nguyễn Gia Bảo
+2. Bùi Minh Đức
+
+   [Scene Builder Download Link](https://gluonhq.com/products/scene-builder/)
+
+   [Java FX Installation Guidelines](https://openjfx.io/openjfx-docs/)
+
+
+🔴 Group 17: Mock Presentation : Code Debug & Work
+1. Nguyễn Văn Nhật
+2. Nghiêm Đức Việt
+
+   [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
+
+
 Questions and Answers (by both students and lecturer)
 
 Codes and Bugs (by both students and lecturer)
