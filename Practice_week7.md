@@ -84,11 +84,12 @@
 
 <b>Monday (8 April 2024)</b> NO ORDER 
 
-| Group 1           | Group 11          | Group 22        | Group 23             |   |
-|-------------------|-------------------|-----------------|----------------------|---|
-| Nguyễn Đức Trường | Nguyễn Quốc Ngọc  | Nguyễn Đình Huy | Nguyễn Hữu Tuấn Kiệt |   |
-| Nguyễn Hưng Thành | Nguyễn Trung Dũng | Đỗ Hữu Đại      | Lò Bảo Duy           |   |
-|                   |                   |                 | Đỗ Trịnh Lệ Quyên    |   |
+| Group 1           | Group 11          | Group 22        | Group 23             |   
+|-------------------|-------------------|-----------------|----------------------|
+| Nguyễn Đức Trường | Nguyễn Quốc Ngọc  | Nguyễn Đình Huy | Nguyễn Hữu Tuấn Kiệt |   
+| Nguyễn Hưng Thành | Nguyễn Trung Dũng | Đỗ Hữu Đại      | Lò Bảo Duy           |   
+|                   |                   |                 | Đỗ Trịnh Lệ Quyên    |   
+
 Questions and Answers (by both students and lecturer)
 
 Codes and Bugs (by both students and lecturer)
