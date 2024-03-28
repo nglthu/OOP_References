@@ -45,18 +45,34 @@
 
 
 <b>MONDAY 01 APRIL 2024</b>   
-🔴 Group 20: Mock Presentation : JavaFX Installation, Code  & Work
-1. Nguyễn Duy Khánh
-2. Phạm Xuân Bách
 
-🔴 Group 15: Mock Presentation : Pure OOP Code Explanation & Work 
-1. Trần Ngọc An
-2. Vũ Đức Hiếu
+🔴 Group 26: Mock Presentation : Pure OOP, Wiki  & Work
+1. Lê Thành Long
+2. Nguyễn Thị Thùy Linh
 
-🔴 Group 2-3-4: Mock Presentation : Pure OOP Code Explanation  & Work
-1. Hoàng Trương Hồng Quyên
-2. Nguyễn Thị Nguyệt
-3. Đỗ Thị Kim Duyên
+🔴 Group 08: Mock Presentation : JavaFx, UML & Work 
+1. Phạm Văn Hùng
+2. Nguyễn Duy Minh
+
+🔴 Group 21: Mock Presentation : Pure OOP Code Explanation, Wiki & Work
+1. Nguyễn Anh Tuấn
+2. Tạ Vương Bảo Ngọc
+3. Hoàng Như Quỳnh
+
+<b>FRIDAY 05 APRIL 2024</b> 
+🔴 Group 7: Mock Presentation : UML  and chosen functionalities (e.g. Quản lý chức vụ, or Quản lý sắp xếp công việc
+1. Lê Thành Long
+2. Nguyễn Thị Thùy Linh
+
+🔴 Group 08: Mock Presentation : JavaFx, UML & Work 
+1. Phạm Văn Hùng
+2. Nguyễn Duy Minh
+
+🔴 Group 21: Mock Presentation : Pure OOP Code Explanation, Wiki & Work
+1. Nguyễn Anh Tuấn
+2. Tạ Vương Bảo Ngọc
+3. Hoàng Như Quỳnh
+
 
 Questions and Answers (by both students and lecturer)
 
