@@ -80,7 +80,10 @@
 🔴 Group 09: Mock Presentation : Abstract class or Interfaces for "Thêm, Sửa, Xóa" trong Lưu thay đổi, của Hiển thị danh sách sinh viên, Lọc và tìm kiếm nhân viên, Hiển thị danh sách chức vụ, etc.
 1. Quách Hữu Nam
 2. Nguyễn Tiến Lực
+3. Lưu Trọng Tín
 
+<b>Monday (8 April 2024)</b> NO ORDER 
+Group 1 | Group 11 | Group 23 | Group 22
 
 
 Questions and Answers (by both students and lecturer)
