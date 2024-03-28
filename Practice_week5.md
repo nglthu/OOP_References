@@ -4,7 +4,9 @@
 ### Lecture and Book
 
 
-[Lecture Slide 8](https://nglthu.github.io/OOP_References/Slides/Lecture8_LTN.pdf)
+[Lecture Slide 8: Java GUI - AWS - Swing - JavaFX](https://nglthu.github.io/OOP_References/Slides/Lecture8_LTN.pdf)
+
+[Lecture Slide 9: Exception and RuntimeException](https://nglthu.github.io/OOP_References/Slides/Lecture8_LTN.pdf)
 
 [JavaFX Layout](https://nglthu.github.io/JavaGuiProject/img/readMeImg)
 
@@ -43,6 +45,8 @@
 <span style="color:red">🔴IMPORTANT❗🔴Each Group carries out their <b> mock presentation </b> in front of the class for the last 3 weeks since the week starting 25 March to end. 
 </span>
 
+<b>MONDAY 25 March 2024</b>
+
 🔴 Group 19: Java FX Installation, Scene Builder & Work
 
 1. Nguyễn Gia Bảo
@@ -59,6 +63,19 @@
 
    [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
 
+<b>FRIDAY 28 March 2024</b>   
+🔴 Group 20: Mock Presentation : JavaFX Installation, Code  & Work
+1. Nguyễn Duy Khánh
+2. Phạm Xuân Bách
+
+🔴 Group 15: Mock Presentation : Pure OOP Code Explanation & Work 
+1. Trần Ngọc An
+2. Vũ Đức Hiếu
+
+🔴 Group 2-3-4: Mock Presentation : Pure OOP Code Explanation  & Work
+1. Hoàng Trương Hồng Quyên
+2. Nguyễn Thị Nguyệt
+3. Đỗ Thị Kim Duyên
 
 Questions and Answers (by both students and lecturer)
 
