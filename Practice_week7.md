@@ -1,4 +1,4 @@
-# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week7) of Week 7
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week7) of Week 7 & 8
 
 ## Week 7 I/O & Final Project
 ### Lecture and Book
