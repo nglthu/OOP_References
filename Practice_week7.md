@@ -4,7 +4,7 @@
 ### Lecture and Book
 
 
-[Lecture Slide 8](https://nglthu.github.io/OOP_References/Slides/Lecture8_LTN.pdf)
+[Lecture Slide 10: I/O](https://nglthu.github.io/OOP_References/Slides/Lecture10_LTN.pdf)
 
 [JavaFX Layout](https://nglthu.github.io/JavaGuiProject/img/readMeImg)
 
@@ -43,22 +43,20 @@
 <span style="color:red">🔴IMPORTANT❗🔴Each Group carries out their <b> mock presentation </b> in front of the class for the last 3 weeks since the week starting 25 March to end. 
 </span>
 
-🔴 Group 19: Java FX Installation, Scene Builder & Work
 
-1. Nguyễn Gia Bảo
-2. Bùi Minh Đức
+<b>MONDAY 01 APRIL 2024</b>   
+🔴 Group 20: Mock Presentation : JavaFX Installation, Code  & Work
+1. Nguyễn Duy Khánh
+2. Phạm Xuân Bách
 
-   [Scene Builder Download Link](https://gluonhq.com/products/scene-builder/)
+🔴 Group 15: Mock Presentation : Pure OOP Code Explanation & Work 
+1. Trần Ngọc An
+2. Vũ Đức Hiếu
 
-   [Java FX Installation Guidelines](https://openjfx.io/openjfx-docs/)
-
-
-🔴 Group 17: Mock Presentation : Code Debug & Work
-1. Nguyễn Văn Nhật
-2. Nghiêm Đức Việt
-
-   [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
-
+🔴 Group 2-3-4: Mock Presentation : Pure OOP Code Explanation  & Work
+1. Hoàng Trương Hồng Quyên
+2. Nguyễn Thị Nguyệt
+3. Đỗ Thị Kim Duyên
 
 Questions and Answers (by both students and lecturer)
 
