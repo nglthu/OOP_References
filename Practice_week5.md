@@ -63,7 +63,7 @@
 
    [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
 
-<b>FRIDAY 28 March 2024</b>   
+<b>FRIDAY 29 March 2024</b>   
 🔴 Group 20: Mock Presentation : JavaFX Installation, Code  & Work
 1. Nguyễn Duy Khánh
 2. Phạm Xuân Bách
