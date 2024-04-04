@@ -65,6 +65,7 @@
 3. Nguyễn Minh Sang
 
 <b>FRIDAY 05 APRIL 2024</b> 
+
 🔴 Group 7: Mock Presentation : UML  and chosen functionalities (e.g. Quản lý chức vụ, or Quản lý sắp xếp công việc, etc.)
 1. Triệu Tiến Quỳnh
 2. Vũ Hồng Phúc
@@ -94,13 +95,18 @@ Questions and Answers (by both students and lecturer)
 
 Codes and Bugs (by both students and lecturer)
 
+<b>Friday (12 April 2024) : End of The Course</b> 
 
+❓ Questions
+
+
+🎯 Answers
 
 ### Discuss
-+ Any difficulties can send through message to 
 
-[Discussion](https://github.com/nglthu/OOP_References/discussions)
+🔴<b>Any difficulties can send through message everytime to </b>
 
+💬 Discussion](https://github.com/nglthu/OOP_References/discussions) 💬
 
 
 + Follow [@nglthu](https://github.com/nglthu) or Github.com/nglthu
