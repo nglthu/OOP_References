@@ -75,13 +75,14 @@
 2. Lương Duy Tân
 
 🔴 Group 06: Mock Presentation : JavaFx, UML & Work (e.g. Componenent Quản lý sinh viên) 
+Abstract class or Interfaces for "Thêm, Sửa, Xóa" trong Lưu thay đổi, của Hiển thị danh sách sinh viên, Lọc và tìm kiếm nhân viên, Hiển thị danh sách chức vụ, etc.
 1. Quách Hữu Nam
 2. Nguyễn Tiến Lực
+3. Lưu Trọng Tiến
 
-🔴 Group 09: Mock Presentation : Abstract class or Interfaces for "Thêm, Sửa, Xóa" trong Lưu thay đổi, của Hiển thị danh sách sinh viên, Lọc và tìm kiếm nhân viên, Hiển thị danh sách chức vụ, etc.
-1. Quách Hữu Nam
-2. Nguyễn Tiến Lực
-3. Lưu Trọng Tín
+🔴 Group 09: Mock Presentation : Quản lý nhân sự
+1. Đàm Đại Phong
+2. Đỗ Hồng Thái
 
 <b>Monday (8 April 2024)</b> NO ORDER 
 
