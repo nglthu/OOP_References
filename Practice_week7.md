@@ -71,6 +71,9 @@
 2. Vũ Hồng Phúc
    
 🔴 Group 12: Mock Presentation : JavaFx, UML & Work (e.g. Componenent Quản lý bán hàng) 
+
+Restart and Check the Work
+
 1. Đỗ Thị Ngân
 2. Lương Duy Tân
 
