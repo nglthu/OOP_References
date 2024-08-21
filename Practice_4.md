@@ -1,6 +1,6 @@
-# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week4) of Week 4
+# [Practice Task 4](https://nglthu.github.io/OOP_References/Practice_week4) 
 
-## Week 4 UML & Discuss
+## Practice 4 UML & Discuss
 
 ### Lecture and Book
 
