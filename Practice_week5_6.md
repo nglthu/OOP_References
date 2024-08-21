@@ -42,40 +42,32 @@
 
 #### 5. Mock Presentation
 
-<span style="color:red">🔴IMPORTANT❗🔴Each Group carries out their <b> mock presentation </b> in front of the class for the last 3 weeks since the week starting 25 March to end. 
+<span style="color:red">🔴IMPORTANT❗🔴Each Group carries out their <b> mock presentation </b> in front of the class since this week to end. 
 </span>
 
-<b>MONDAY 25 March 2024</b>
+<b>1st round</b>
 
-🔴 Group 19: Java FX Installation, Scene Builder & Work
+🔴 Group : Java FX Installation, Scene Builder & Work
 
-1. Nguyễn Gia Bảo
-2. Bùi Minh Đức
+
 
    [Scene Builder Download Link](https://gluonhq.com/products/scene-builder/)
 
    [Java FX Installation Guidelines](https://openjfx.io/openjfx-docs/)
 
 
-🔴 Group 17: Mock Presentation : Code Debug & Work
-1. Nguyễn Văn Nhật
-2. Nghiêm Đức Việt
+🔴 Group : Mock Presentation : Code Debug & Work
+
 
    [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
 
-<b>FRIDAY 29 March 2024</b>   
-🔴 Group 20: Mock Presentation : JavaFX Installation, Code  & Work
-1. Nguyễn Duy Khánh
-2. Phạm Xuân Bách
+<b>2n round </b>   
+🔴 Group : Mock Presentation : JavaFX Installation, Code  & Work
 
-🔴 Group 15: Mock Presentation : Pure OOP Code Explanation & Work 
-1. Trần Ngọc An
-2. Vũ Đức Hiếu
+🔴 Group : Mock Presentation : Pure OOP Code Explanation & Work 
 
-🔴 Group 2-3-4: Mock Presentation : Pure OOP Code Explanation  & Work
-1. Hoàng Trương Hồng Quyên
-2. Nguyễn Thị Nguyệt
-3. Đỗ Thị Kim Duyên
+🔴 Group : Mock Presentation : Pure OOP Code Explanation  & Work
+
 
 Questions and Answers (by both students and lecturer)
 
