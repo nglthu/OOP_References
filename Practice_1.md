@@ -1,6 +1,6 @@
 # [Practice Task](https://nglthu.github.io/OOP_References/Practice_week1)
 
-## Week 1 Code & Discuss
+## Practice 1 Code & Discuss
 
 ### Code 1
 [Lecture Slide](https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf)
