@@ -1,6 +1,6 @@
 # [Practice Task](https://nglthu.github.io/OOP_References/Practice_week7) of  7 & 8
 
-## Practice 7 and 8 I/O & Final Project
+## Practice 7 and 8 : I/O & Final Project
 ### Lecture and Book
 
 
