@@ -16,7 +16,7 @@ Initialisation và Cleanup
 
 Access Control và Reuse
 
-[Practice 2 (Bài tập thực hành sô 2)] (https://nglthu.github.io/OOP_References/Practice_2)
+[Practice 2 (Bài tập thực hành sô 2)](https://nglthu.github.io/OOP_References/Practice_2)
 
 # Week 3 (Tuần 3)
 
@@ -36,7 +36,7 @@ Interface và Inner Class
 
 UML
 
-[Practice UML (Bài tập thực hành UML)] (https://nglthu.github.io/OOP_References/Practice_4)
+[Practice UML (Bài tập thực hành UML)](https://nglthu.github.io/OOP_References/Practice_4)
 
 [Minh họa UML](https://nglthu.github.io/OOP_References/Practice_UML)
 
@@ -48,7 +48,7 @@ Application & Applets and Swing
 
 Exception Handling & Errors
 
-[Practice 5 & 6 (Bài tập thực hành số 5 và 6)] (https://nglthu.github.io/OOP_References/Practice_5_6)
+[Practice 5 & 6 (Bài tập thực hành số 5 và 6)](https://nglthu.github.io/OOP_References/Practice_5_6)
 
 # Week 8 & 9 (Tuần 8 & 9)
 
@@ -60,6 +60,6 @@ Threads & JDBC
 
 # Week 10 (Tuần 10)
 
-[Practice 7& 8 (Bài tập thực hành số 7 và 8) (tiếp tục)] (https://nglthu.github.io/OOP_References/Practice_7_8)
+[Practice 7& 8 (Bài tập thực hành số 7 và 8)(tiếp tục)](https://nglthu.github.io/OOP_References/Practice_7_8)
 
 Ôn tập
