@@ -1,6 +1,6 @@
 # [Practice Task](https://nglthu.github.io/OOP_References/Practice_week2) and Midterm Assignment for Assessment
 
-## Week 2 Code & Discuss
+## Practice 2 Code & Discuss
 
 ### Lecture and Book
 
