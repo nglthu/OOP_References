@@ -1,6 +1,6 @@
-# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week5) of Week 5 & 6
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week5) of 5 & 6
 
-## Week 5 & 6 Java GUI
+## Practice 5 & 6 Java GUI
 ### Lecture and Book
 
 
