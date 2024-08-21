@@ -1,6 +1,6 @@
-# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week3) of Week 3
+# [Practice Task](https://nglthu.github.io/OOP_References/Practice_week3) of Practice 3
 
-## Week 3 Code & Discuss
+## Practice 3 Code & Discuss
 
 ### Lecture and Book
 
