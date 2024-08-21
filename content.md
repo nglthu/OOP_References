@@ -38,7 +38,7 @@ UML
 
 [Practice UML (Bài tập thực hành UML)] (https://nglthu.github.io/OOP_References/Practice_4)
 
-Minh họa UML (Liên kết đến một trang bên ngoài.)
+[Minh họa UML](https://nglthu.github.io/OOP_References/Practice_UML)
 
 # Week 6 & 7 (Tuần 6 & 7)
 
