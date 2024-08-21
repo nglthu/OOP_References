@@ -56,10 +56,10 @@ I/0
 
 Threads & JDBC
 
-[Practice 7& 8 (Bài tập thực hành số 7 và 8)] (https://nglthu.github.io/OOP_References/Practice_7_8)
+[Practice 7& 8 (Bài tập thực hành số 7 và 8)](https://nglthu.github.io/OOP_References/Practice_7_8)
 
 # Week 10 (Tuần 10)
 
-[Practice 7& 8 (Bài tập thực hành số 7 và 8)(tiếp tục)](https://nglthu.github.io/OOP_References/Practice_7_8)
+[Practice 7& 8 Bài tập thực hành số 7 và 8 tiếp tục](https://nglthu.github.io/OOP_References/Practice_7_8)
 
 Ôn tập
