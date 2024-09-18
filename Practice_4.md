@@ -29,11 +29,11 @@
    + [Visual Paradigm](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&diagram=list)
 
 
-2. In the group project create a Wiki (as listed from 1.1 to 1.4) for the report
+2. In the group project create a Wiki or ReadMe (as listed from 1.1 to 1.4) for the report
   
 (at the top of each repo)
 
-3. Print it (Wiki) as a paper report at the end of the course, [example](https://github.com/nglthu/OOP_References/wiki/Management_for_Hospital)
+3. Print it (Wiki or ReadMe) as a paper report at the end of the course, [example](https://github.com/nglthu/OOP_References/wiki/Management_for_Hospital)
 
 
 ### Discuss
