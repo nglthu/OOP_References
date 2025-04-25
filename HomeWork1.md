@@ -25,19 +25,24 @@ https://www.w3schools.com/java/default.asp
 
 
 # Discuss 
-+ Any Difficulities ?
++ Any Difficulities ? Questions and Answers
 
 # Rules
-+ Organise all codes today under your repo on Github
+## Organise all codes today under your repo on Github
+
   
-  Review previous lesson [Setting up a Java project for GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-java-project-for-codespaces)
-  
-+ Commit all codes under your Github with specific message each commit.
+## Review previous lesson
+ ### Lecuturer Slide 1
+ ### Practice 0
+ 
+ 
+## Commit all codes 
+under your Github with specific message each commit.
   
 For example: 
-The first message for the first commit is "Code 0: Variable/ Types/ Methods)
+The first message for the first commit is "Code 0: Variables")
 
-Last message for the last commit is "Java Practice"
+Last message for the last commit is "Code 0: Methods"
 
 + Follow [@nglthu](https://github.com/nglthu) or Github.com/nglthu
 
@@ -47,4 +52,8 @@ Last message for the last commit is "Java Practice"
 + Any difficulties can send through message to https://github.com/nglthu/OOP_N01_Term3_2025_K17/discussions/1
 
 [Discussion](https://github.com/nglthu/OOP_N01_Term3_2025_K17/discussions/1)
+
+# Reference
+
+  [Setting up a Java project for GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-java-project-for-codespaces)
 
